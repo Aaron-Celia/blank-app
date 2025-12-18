@@ -1,1 +1,11 @@
-streamlit
+# Blackjack Card Counting Training Suite
+# No external dependencies required - uses Python standard library only
+
+# Python 3.7+ required
+# All functionality implemented using:
+# - random (for shuffling)
+# - time (for timing drills)
+# - json (for session storage)
+# - dataclasses (for data structures)
+# - enum (for action types)
+# - pathlib (for file operations)
